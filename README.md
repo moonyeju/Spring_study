@@ -34,3 +34,11 @@ java -jar <~~SNAPSHOT.jar>
 ./gradlew clean build
 //완전히 지우고 다시 빌드함
 ```
+
+- MVC와 템플릿 엔진
+
+RequestParam 를 사용하려면! 
+
+주소에 http://localhost:8080/hello-mvc?name=spring
+
+이런식으로 ? 이름 = < > 이런식으로 값을 넣어줘야 올바르게 동작함!
