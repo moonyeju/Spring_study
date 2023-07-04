@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba898c91-cf71-4b91-8eca-ace54e5e0c80" name="Changes" comment="" />
+    <list default="true" id="ba898c91-cf71-4b91-8eca-ace54e5e0c80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_info/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_info/src/main/resources/templates/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +81,7 @@
       <workItem from="1688385968814" duration="1547000" />
       <workItem from="1688387849437" duration="96000" />
       <workItem from="1688387948560" duration="99000" />
+      <workItem from="1688388618835" duration="95000" />
     </task>
     <servers />
   </component>
