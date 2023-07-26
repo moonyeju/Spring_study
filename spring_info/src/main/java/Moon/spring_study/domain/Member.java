@@ -1,7 +1,12 @@
 package Moon.spring_study.domain;
 
+import javax.persistence.*;
+
+@Entity
 public class Member {
+    @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+//    @Column(name="username")//DB에는 username이면!
     private String name;
 
     public Long getId() {
