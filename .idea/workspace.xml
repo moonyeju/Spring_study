@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba898c91-cf71-4b91-8eca-ace54e5e0c80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_info/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_info/src/main/resources/templates/hello.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +29,31 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "moonyeju"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="690ada8d-98c2-4ab8-961a-50452bc7d2cb" />
+        <option name="url" value="https://github.com/moonyeju/Spring_study.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2S3rAJvN3whUX9gEMxsquZbJdvO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,6 +66,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "spring__basic",
     "last_opened_file_path": "C:/Users/ansdp/Desktop/Spring_study/spring_info/build.gradle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,6 +99,7 @@
       <workItem from="1688387849437" duration="96000" />
       <workItem from="1688387948560" duration="99000" />
       <workItem from="1688388618835" duration="95000" />
+      <workItem from="1694570004936" duration="204000" />
     </task>
     <servers />
   </component>
