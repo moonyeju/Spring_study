@@ -4,11 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba898c91-cf71-4b91-8eca-ace54e5e0c80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_info/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_info/src/main/resources/templates/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ba898c91-cf71-4b91-8eca-ace54e5e0c80" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_basic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/sql/ddl.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/SpringStudyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/aop/TimeTraceAop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/controller/MemberForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/repository/JdbcMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/repository/JdbcTemplateMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/repository/JpaMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/repository/MemoryMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/repository/SpringDataJpaMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/java/Moon/spring_study/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/resources/templates/hello-template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/resources/templates/members/createMemberForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/main/resources/templates/members/memberList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/test/java/Moon/spring_study/SpringStudyApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/test/java/Moon/spring_study/repository/MemoryMemberRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/test/java/Moon/spring_study/service/MemberServiceIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_info/src/test/java/Moon/spring_study/service/MemberServiceTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +67,31 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "moonyeju"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="690ada8d-98c2-4ab8-961a-50452bc7d2cb" />
+        <option name="url" value="https://github.com/moonyeju/Spring_study.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2S3rAJvN3whUX9gEMxsquZbJdvO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,11 +104,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "spring__basic",
     "last_opened_file_path": "C:/Users/ansdp/Desktop/Spring_study/spring_info/build.gradle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "spring.configuration.checksum": "de8720ec510d3f3a89825e531c9fc008",
     "vue.rearranger.settings.migration": "true"
@@ -82,7 +138,17 @@
       <workItem from="1688387849437" duration="96000" />
       <workItem from="1688387948560" duration="99000" />
       <workItem from="1688388618835" duration="95000" />
+      <workItem from="1694570004936" duration="586000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1694570297343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694570297343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +176,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
